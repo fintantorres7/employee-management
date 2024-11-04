@@ -1,0 +1,8 @@
+.venv
+
+.flaskenv
+.env
+
+.DS_STORE
+
+*.cpython*
